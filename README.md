@@ -1,3 +1,5 @@
+This project only applies to forge:neo using rocm7.x
+
 Fixed ROCM 7 for Windows; VAE inferences suggest that a surge in VRAM can cause system slowdown.
 Install the extendsion functionality directly using `git clone this project git`.
 
